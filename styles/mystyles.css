@@ -1,0 +1,23 @@
+li{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+  
+}
+
+a:visited {
+    color: rgb(206, 166, 208)
+}
+
+
+div {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.center{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body{
+    background-color: rgb(251, 238, 241);
+}
